@@ -1,5 +1,5 @@
 ## Привет, я Shash29! Я разработчик на языке программирования "Python"
-----
+
 ### В моём портфолио есть один более-менее крупный проект — 
 
 [Weather Notification 11]: https://github.com/shash29exe/Weather-Notification-11
